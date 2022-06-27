@@ -1,0 +1,12 @@
+button{
+    font-size: 100px;
+    color:white;
+    width: 500px;
+    height: 750px;
+    background-image: url(mab.jpg);
+    background-size: 100%;
+    margin-left: 35%;}
+h1{font-size:30px;}
+body{
+    background-color: lightblue;
+}
